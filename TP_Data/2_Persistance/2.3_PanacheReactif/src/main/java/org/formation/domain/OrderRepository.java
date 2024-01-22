@@ -1,8 +1,7 @@
 package org.formation.domain;
 
-import javax.enterprise.context.ApplicationScoped;
-
-import io.quarkus.hibernate.orm.panache.PanacheRepository;
+import io.quarkus.hibernate.reactive.panache.PanacheRepository;
+import jakarta.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
 public class OrderRepository implements PanacheRepository<Order>{
