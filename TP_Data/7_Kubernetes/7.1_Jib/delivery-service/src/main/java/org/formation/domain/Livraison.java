@@ -34,7 +34,7 @@ public class Livraison {
 	public String noCommande;
 	
 	@OneToOne
-	@JsonView(LivraisonViews.Base.class)
+	@JsonView(LivraisonViews.Complet.class)
 	public Livreur livreur;
 	
 	@NotNull
