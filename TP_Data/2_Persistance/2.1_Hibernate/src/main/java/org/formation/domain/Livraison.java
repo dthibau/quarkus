@@ -33,6 +33,7 @@ public class Livraison {
 	public Livreur livreur;
 	
 	@NotNull
+	@Enumerated(EnumType.STRING)
 	public Status status;
 	
 	public Instant creationDate;
