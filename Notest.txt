@@ -1,0 +1,8 @@
+Minimiser les manips de plomberie :
+- Avoir les bonnes interfaces directement dans LivraisonService
+- Upgrader le projet gateway fourni
+
+
+Dans le cahier de TP présenter l'architecture finale dés le début
+
+Réduire les slides sur Kafka, se contenter du minimum

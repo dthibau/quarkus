@@ -13,7 +13,7 @@
           <elementProp name="NB_USER" elementType="Argument">
             <stringProp name="Argument.name">NB_USER</stringProp>
             <stringProp name="Argument.metadata">=</stringProp>
-            <stringProp name="Argument.value">${__P(NB_USER,1000)}</stringProp>
+            <stringProp name="Argument.value">${__P(NB_USER,500)}</stringProp>
           </elementProp>
         </collectionProp>
       </Arguments>
