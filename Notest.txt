@@ -1,8 +1,14 @@
 Minimiser les manips de plomberie :
 - Avoir les bonnes interfaces directement dans LivraisonService
 - Upgrader le projet gateway fourni
+- Migrer le tracing distribué sur OpenTelemetry
+- Fixer les bons ports pour tous les services 
 
 
 Dans le cahier de TP présenter l'architecture finale dés le début
 
 Réduire les slides sur Kafka, se contenter du minimum
+
+
+AI with DevUI :
+https://www.the-main-thread.com/p/hidden-quarkus-features-java-developers
